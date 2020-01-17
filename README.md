@@ -29,3 +29,8 @@
 ### Video
 
 [YouTube]()
+
+### Default Setting
+
++ e-mail sending interval: 15min
++ YouTube Data:  Top 10 Video Views and Likes, + Subscribe, - Subscribe (Weekly)
