@@ -88,7 +88,9 @@ if __name__ == '__main__':
             except Exception as e:
                 print(e.message)
         
-        except:
+        #except:
+        except AssertionError as error:
             print("error！ send_time： " + str(mail_send_time) + "(not send mail)")
+            print(error)
 
         time.sleep(900) #15min 
